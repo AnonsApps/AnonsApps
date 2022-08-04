@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RitomG69 Currently the owner of AnonApps
+- 👀 I’m interested in learning more about Java,Kotlin,Java script
+- 🌱 I’m currently learning Web design
+- 💞️ I’m looking to collaborate on Java,Kotlin projects
